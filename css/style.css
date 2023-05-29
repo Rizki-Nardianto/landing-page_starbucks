@@ -1,6 +1,6 @@
 /* root color */
 :root {
-  --primary: #036635;
+  --primary: #be0c0c;
   --bg: #010101;
 }
 
@@ -139,7 +139,7 @@ body {
   min-height: 100vh;
   display: flex;
   align-items: center;
-  background-image: url("../img/bg-1.jpg");
+  background-image: url("../img/bg.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
